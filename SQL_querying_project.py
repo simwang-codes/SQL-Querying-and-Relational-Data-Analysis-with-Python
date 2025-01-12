@@ -1,6 +1,7 @@
 # This project demonstrates querying and analyzing real-world data from three interconnected datasets:
 # Census data, Public Schools data, and Crime data in Chicago using SQLite as a relational database and Python.
 # It involves various SQL queries to extract insights, such as crime patterns, community poverty levels, and school safety scores.
+# This project is supposed to be run in the Jupyter Notebook environment.
 
 import prettytable
 import pandas as pd
